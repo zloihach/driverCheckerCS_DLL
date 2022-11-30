@@ -1,0 +1,13 @@
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\driveCheckerDLL.dll
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\FastMember.Signed.dll
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\System.IO.Ports.dll
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\driveCheckerDLL.pdb
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Release\System.IO.Ports.xml
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csproj.AssemblyReference.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csproj.CoreCompileInputs.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csproj.CopyComplete
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb

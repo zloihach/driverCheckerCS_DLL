@@ -6,5 +6,7 @@ E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleAppl
 E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
 E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\driveCheckerDLL.dll
-E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\driveCheckerDLL.pdb
 E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\System.IO.Ports.dll
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\System.IO.Ports.xml
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\FastMember.Signed.dll
