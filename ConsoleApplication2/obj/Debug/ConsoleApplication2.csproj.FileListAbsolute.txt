@@ -1,0 +1,10 @@
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\driveCheckerDLL.dll
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\bin\Debug\driveCheckerDLL.pdb
+E:\randomwindow_cs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
